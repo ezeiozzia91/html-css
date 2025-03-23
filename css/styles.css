@@ -1,0 +1,14 @@
+/*Selector por elemento*/
+li{
+    color:red;
+}
+
+/*Selector por clase*/
+.aceite {
+    color: blue;
+}
+
+/*Selector por id*/
+#ingrediente-secreto {
+    color: purple;
+}
