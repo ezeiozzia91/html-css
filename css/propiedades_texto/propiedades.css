@@ -1,0 +1,11 @@
+p {
+    color: red;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center; /* Alinea el texto dentro de un contenedor. Opciones: right, left, center, justify (hace que las lineas terminen en el mismo lugar), start */
+    text-decoration: underline; /* Te permite tachar el texto con una linea o poner una linea arriba o por debajo del texto. Kas opciones son: none, underline, line-trough*/
+    line-height: 2; /* Define la distancia que va haber entre linea y linea */
+    text-transform: uppercase; /* Transforma el texto, hay distintas opciones: uppercase, lowercase, capitalize, full-width*/
+}
